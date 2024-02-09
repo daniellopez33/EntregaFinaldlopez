@@ -1,0 +1,15 @@
+.h1 {
+    color: red;
+}
+
+.navbar-nav .nav-link {
+    color: #007bff; /* Color del texto para las categorías */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0056b3; /* Color del texto al pasar el ratón sobre las categorías */
+}
+
+.ml-auto {
+    margin-left: auto !important; /* Ajusta la posición del carrito a la derecha */
+}
